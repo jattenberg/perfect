@@ -1,6 +1,6 @@
 # perfect
 
-a little investigation into the properties of integer factorization and perfect numbers
+A little investigation into the properties of integer factorization and perfect numbers. During a sleepless night I was wondering how often the aliquot sum of a number is greater than the number, how often it is less than the number. I also thought of a way to do integer factorization, though I'm sure there are more efficient ways than I came up with.
 
 In number theory, a perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself. For instance, 6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, so 6 is a perfect number.
 
