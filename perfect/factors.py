@@ -1,4 +1,3 @@
-from math import gcd
 from numpy import sum
 
 def factorization(n):
