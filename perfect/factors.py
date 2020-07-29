@@ -7,7 +7,7 @@ def factorization(n):
         elif n%i == 0:
             return fac_rec(i+1, factors + [i, int(n/i)], n/i)
         else:
-            return fac_rec(i+1, factors, limit)
+            return fac_rec(i+1, factors, n/i)
     return fac_rec(1)
 
 def aliquot_sum(n):
